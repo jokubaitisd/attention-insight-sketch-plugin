@@ -19,7 +19,7 @@ Generate attention heatmaps and instantly know where users look when engaging wi
 
 1. Click on Artboard with your design<br />
 2.  Go to Plugins > Attention Insight > "Generate Heatmap"<br />
-3.  💥 your Heatmap!<br />
+3.  🎈 your Heatmap!<br />
 <br />
 💡 Hey, don’t have an account yet?<br />
-🎈 We’re waiting for your registration  @ <a href="https://app.attentioninsight.com">https://app.attentioninsight.com</a>!
+👥 We’re waiting for your registration  @ <a href="https://app.attentioninsight.com">https://app.attentioninsight.com</a>!
